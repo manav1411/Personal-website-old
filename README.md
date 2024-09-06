@@ -1,6 +1,5 @@
 ## Purpose
-This is the code for my personal website, accessible at [manavdodia.com](https://manavdodia.com)\
-This project aims to provide users with more information about me.
+This is the code for the old version personal website, currently not published on the internet.\
 
 ## Screenshots
 <img width="600" alt="Screenshot 2024-09-06 at 1 32 03 pm" src="https://github.com/user-attachments/assets/1dfd9a02-c9a7-4f85-bb96-d75dd0670079">
